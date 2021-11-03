@@ -3,17 +3,17 @@
 Raspberry Pi Pico用のビルド環境イメージ
 
 - English README here:<br>
-[README.md](https://github.com/Futafi/pico-builder/blob/main/README.md)
+[README.md](https://github.com/futafi/pico-builder/blob/master/README.md)
 - 日本語版READMEはこちら:<br>
-[README.ja.md](https://github.com/Futafi/pico-builder/blob/main/README.ja.md)
+[README.ja.md](https://github.com/futafi/pico-builder/blob/master/README.ja.md)
 
 ## クイックリファレンス
 
 * 質問・問題はこちらへ:<br>
-[the Issues page on Github](https://github.com/Futafi/pico-builder/issues)
+[the Issues page on Github](https://github.com/futafi/pico-builder/issues)
 
 * Dockerfileはこちらを参照:<br>
-[The Dockerfile on Github](https://github.com/Futafi/pico-builder/blob/main/Dockerfile)
+[The Dockerfile on Github](https://github.com/futafi/pico-builder/blob/master/Dockerfile)
 
 ## Imageの中身
 
